@@ -1,0 +1,51 @@
+Employee_Name,Department,Position,Years_Experience,Projects_Completed,Training_Hours,Manager_Rating,Peer_Rating,Self_Rating,Goals_Met_Percent,Certifications,Leadership_Score,Innovation_Score,Communication_Score,Adaptability_Score
+Aarav Sharma,HR,Junior,17,7,181,3.0,2.5,8.5,99,2,5.6,2.8,8.7,3.3
+Priya Patel,Product,Director,8,14,75,8.8,1.2,8.2,63,7,7.0,3.4,4.1,9.7
+Rahul Singh,Engineering,Junior,1,36,104,3.3,9.6,9.2,63,4,7.9,3.1,1.7,7.7
+Sneha Das,Finance,Senior,10,30,94,1.3,2.5,7.7,93,3,4.9,5.0,1.9,9.4
+Vikram Reddy,Data Science,Senior,12,45,71,5.1,4.1,8.5,71,1,7.4,2.9,3.3,5.1
+Ananya Gupta,Finance,Lead,3,16,11,7.2,4.0,8.8,92,2,3.3,4.9,4.5,7.5
+Arjun Kumar,Product,Senior,8,8,172,8.3,1.6,7.8,65,8,3.4,1.1,3.3,9.7
+Diya Nair,Data Science,Junior,3,4,37,6.5,2.9,8.7,52,2,9.5,7.8,3.7,1.8
+Kabir Joshi,Finance,Lead,14,22,176,4.1,7.1,7.0,56,1,4.1,9.9,3.7,2.7
+Meera Iyer,Sales,Director,19,21,68,2.0,7.3,7.7,31,0,4.8,1.6,9.2,6.9
+Nabil Rahman,Design,Junior,5,26,188,6.9,2.6,6.6,70,5,2.2,2.0,5.6,8.3
+Fatima Begum,Design,Senior,10,22,138,2.6,1.8,3.5,73,7,6.2,5.7,1.6,1.3
+Omar Hassan,Operations,Mid-Level,1,10,13,9.7,9.4,8.9,94,4,6.1,4.1,6.0,4.9
+Sara Ahmed,Product,Director,12,21,152,1.3,4.2,3.3,34,1,6.8,4.1,5.5,4.1
+Tariq Ali,Operations,Junior,18,12,162,1.4,9.2,6.2,33,7,7.4,6.6,2.7,9.4
+John Smith,Data Science,Lead,20,45,137,9.4,9.7,5.6,74,4,3.6,3.6,6.4,4.5
+Emily Johnson,Sales,Mid-Level,9,7,159,8.8,7.3,4.6,30,7,2.4,5.2,7.5,7.6
+Michael Brown,Support,Director,17,10,69,3.2,2.8,6.2,81,2,8.8,6.5,7.8,9.1
+Jessica Davis,Product,Junior,4,3,54,1.4,5.3,6.0,63,8,8.2,9.6,8.4,8.5
+David Wilson,Design,Manager,12,16,27,9.6,8.8,6.2,72,2,6.2,2.8,7.4,3.7
+Lisa Anderson,Data Science,Mid-Level,17,17,65,9.9,9.1,7.4,43,7,9.9,2.6,3.6,5.9
+James Taylor,Finance,Mid-Level,16,34,196,8.6,4.2,6.8,67,2,8.0,4.7,3.6,4.1
+Jennifer Martinez,Operations,Mid-Level,4,29,90,4.4,2.5,6.4,83,0,6.6,9.5,8.0,9.3
+Robert Garcia,Design,Manager,6,29,36,8.8,1.7,4.8,99,6,2.4,9.7,1.4,7.5
+Maria Lopez,Design,Manager,9,4,62,6.6,5.5,4.6,55,0,1.4,4.2,1.8,4.3
+Wei Zhang,Product,Junior,2,21,23,1.5,7.7,3.3,48,1,7.7,9.2,2.8,3.0
+Yuki Tanaka,Product,Senior,19,25,18,4.6,6.0,7.5,33,7,3.7,2.3,2.8,2.1
+Chen Wei,Support,Manager,15,29,187,9.7,5.6,6.5,47,6,4.0,9.1,1.6,9.0
+Akiko Suzuki,Design,Junior,18,28,180,5.6,6.4,7.6,68,6,6.6,2.8,5.1,6.6
+Hiroshi Yamamoto,Finance,Junior,3,46,82,9.5,8.1,4.1,92,8,3.8,6.3,5.9,4.9
+Sophie Martin,Product,Mid-Level,1,4,96,9.9,4.1,7.3,61,6,7.4,3.6,1.1,1.3
+Lucas Dubois,Finance,Junior,10,41,197,4.8,5.4,6.9,48,7,9.5,9.7,5.0,1.9
+Emma Bernard,Design,Junior,1,26,110,7.1,3.3,4.1,97,0,7.2,3.3,2.8,3.2
+Hugo Petit,Engineering,Junior,10,27,65,6.1,4.3,7.1,51,7,5.3,7.5,1.4,10.0
+Chloe Moreau,Finance,Lead,7,19,62,8.4,1.1,5.9,80,2,8.2,1.1,7.6,1.7
+Liam O'Brien,Data Science,Senior,19,34,46,3.7,5.2,6.6,41,5,7.7,2.1,8.5,9.6
+Olivia Murphy,Data Science,Manager,9,22,132,6.0,3.9,5.3,100,3,1.0,4.8,5.5,7.1
+Noah Kelly,Design,Senior,19,25,79,3.5,2.3,9.8,44,6,2.7,8.3,7.7,10.0
+Ava Walsh,Data Science,Senior,6,29,81,9.9,7.4,3.7,69,7,9.4,3.0,8.2,1.6
+Ethan Byrne,Operations,Director,13,37,87,1.9,3.4,9.4,72,2,7.2,7.3,4.3,3.4
+Aisha Mohammed,Product,Lead,14,21,19,5.1,4.2,8.2,43,5,9.0,8.5,7.3,5.9
+Ibrahim Khan,Operations,Lead,3,40,172,3.7,6.3,4.3,94,1,7.7,9.1,9.7,8.3
+Zainab Abbas,HR,Manager,19,9,112,7.0,9.8,5.6,92,4,5.5,2.7,3.8,3.0
+Hassan Malik,Marketing,Lead,16,33,77,4.7,8.8,3.4,70,2,1.4,9.0,3.0,2.5
+Maryam Hussain,Design,Director,14,38,72,3.2,5.4,4.9,84,6,4.8,7.0,1.7,8.3
+Carlos Rivera,Finance,Senior,1,37,167,1.3,2.2,8.8,52,1,2.4,7.3,4.0,3.4
+Ana Fernandez,Data Science,Junior,5,30,133,7.6,2.3,9.9,64,7,3.9,4.3,2.3,4.2
+Miguel Torres,Finance,Director,18,50,96,4.2,2.1,7.4,82,2,2.8,5.2,7.4,9.3
+Isabella Rojas,Marketing,Mid-Level,9,21,118,1.7,9.7,6.1,50,1,4.6,4.1,7.0,9.6
+Diego Mendez,Finance,Manager,4,2,23,5.8,4.5,7.0,48,0,4.9,6.8,3.1,5.0
